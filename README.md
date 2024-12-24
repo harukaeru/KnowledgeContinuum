@@ -1,3 +1,4 @@
 # KnowledgeContinuum
 
-Wikiにいろいろ書いてます
+docs/にいろいろ書いてます
+
