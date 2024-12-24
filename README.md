@@ -1,1 +1,3 @@
 # KnowledgeContinuum
+
+Wikiにいろいろ書いてます
